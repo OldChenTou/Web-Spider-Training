@@ -1,5 +1,5 @@
 # 爬虫框架
-
+![](https://raw.githubusercontent.com/OldChenTou/Web-Spider-Training/main/%E7%88%AC%E8%99%AB%E5%88%86%E7%B1%BB.png)
 ## selenium 模拟用户行为
 
 1. [淘宝模拟登录](https://link.zhihu.com/?target=https%3A//github.com/shengqiangzhang/examples-of-web-crawlers/tree/master/1.%E6%B7%98%E5%AE%9D%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95)
